@@ -1,0 +1,12 @@
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/obj/Debug/net5.0/Sky.Entities.csprojAssemblyReference.cache
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/obj/Debug/net5.0/Sky.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/obj/Debug/net5.0/Sky.Entities.AssemblyInfoInputs.cache
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/obj/Debug/net5.0/Sky.Entities.AssemblyInfo.cs
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/obj/Debug/net5.0/Sky.Entities.csproj.CoreCompileInputs.cache
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/bin/Debug/net5.0/Sky.Entities.deps.json
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/bin/Debug/net5.0/Sky.Entities.dll
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/bin/Debug/net5.0/ref/Sky.Entities.dll
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/bin/Debug/net5.0/Sky.Entities.pdb
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/obj/Debug/net5.0/Sky.Entities.dll
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/obj/Debug/net5.0/ref/Sky.Entities.dll
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/obj/Debug/net5.0/Sky.Entities.pdb

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.UI\\Sky.UI.csproj": {}
+    "/Users/kutluhanyegit/Desktop/SkyProj/Sky.UI/Sky.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.Business\\Sky.Business.csproj": {
+    "/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/Sky.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.Business\\Sky.Business.csproj",
+        "projectUniqueName": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/Sky.Business.csproj",
         "projectName": "Sky.Business",
-        "projectPath": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.Business\\Sky.Business.csproj",
-        "packagesPath": "C:\\Users\\kutlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.Business\\obj\\",
+        "projectPath": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/Sky.Business.csproj",
+        "packagesPath": "/Users/kutluhanyegit/.nuget/packages/",
+        "outputPath": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kutlu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/kutluhanyegit/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,21 +52,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.DataAccess\\Sky.DataAccess.csproj": {
+    "/Users/kutluhanyegit/Desktop/SkyProj/Sky.DataAccess/Sky.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.DataAccess\\Sky.DataAccess.csproj",
+        "projectUniqueName": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.DataAccess/Sky.DataAccess.csproj",
         "projectName": "Sky.DataAccess",
-        "projectPath": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.DataAccess\\Sky.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\kutlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.DataAccess\\obj\\",
+        "projectPath": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.DataAccess/Sky.DataAccess.csproj",
+        "packagesPath": "/Users/kutluhanyegit/.nuget/packages/",
+        "outputPath": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kutlu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/kutluhanyegit/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.Entities\\Sky.Entities.csproj": {
-                "projectPath": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.Entities\\Sky.Entities.csproj"
+              "/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/Sky.Entities.csproj": {
+                "projectPath": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/Sky.Entities.csproj"
               }
             }
           }
@@ -134,21 +134,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.Entities\\Sky.Entities.csproj": {
+    "/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/Sky.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.Entities\\Sky.Entities.csproj",
+        "projectUniqueName": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/Sky.Entities.csproj",
         "projectName": "Sky.Entities",
-        "projectPath": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.Entities\\Sky.Entities.csproj",
-        "packagesPath": "C:\\Users\\kutlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.Entities\\obj\\",
+        "projectPath": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/Sky.Entities.csproj",
+        "packagesPath": "/Users/kutluhanyegit/.nuget/packages/",
+        "outputPath": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kutlu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/kutluhanyegit/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -174,7 +174,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.6, )"
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
@@ -192,21 +192,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.UI\\Sky.UI.csproj": {
+    "/Users/kutluhanyegit/Desktop/SkyProj/Sky.UI/Sky.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.UI\\Sky.UI.csproj",
+        "projectUniqueName": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.UI/Sky.UI.csproj",
         "projectName": "Sky.UI",
-        "projectPath": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.UI\\Sky.UI.csproj",
-        "packagesPath": "C:\\Users\\kutlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.UI\\obj\\",
+        "projectPath": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.UI/Sky.UI.csproj",
+        "packagesPath": "/Users/kutluhanyegit/.nuget/packages/",
+        "outputPath": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.UI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kutlu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/kutluhanyegit/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -218,14 +218,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.Business\\Sky.Business.csproj": {
-                "projectPath": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.Business\\Sky.Business.csproj"
+              "/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/Sky.Business.csproj": {
+                "projectPath": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/Sky.Business.csproj"
               },
-              "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.DataAccess\\Sky.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.DataAccess\\Sky.DataAccess.csproj"
+              "/Users/kutluhanyegit/Desktop/SkyProj/Sky.DataAccess/Sky.DataAccess.csproj": {
+                "projectPath": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.DataAccess/Sky.DataAccess.csproj"
               },
-              "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.Entities\\Sky.Entities.csproj": {
-                "projectPath": "C:\\Users\\kutlu\\OneDrive\\Masaüstü\\SkyProj\\Sky.Entities\\Sky.Entities.csproj"
+              "/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/Sky.Entities.csproj": {
+                "projectPath": "/Users/kutluhanyegit/Desktop/SkyProj/Sky.Entities/Sky.Entities.csproj"
               }
             }
           }
@@ -239,22 +239,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.6, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.6, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
-              "target": "Package",
-              "version": "[5.0.6, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -273,7 +257,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

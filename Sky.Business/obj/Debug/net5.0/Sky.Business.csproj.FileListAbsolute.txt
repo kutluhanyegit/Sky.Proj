@@ -1,0 +1,12 @@
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/bin/Debug/net5.0/Sky.Business.deps.json
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/bin/Debug/net5.0/Sky.Business.dll
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/bin/Debug/net5.0/ref/Sky.Business.dll
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/bin/Debug/net5.0/Sky.Business.pdb
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/obj/Debug/net5.0/Sky.Business.csprojAssemblyReference.cache
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/obj/Debug/net5.0/Sky.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/obj/Debug/net5.0/Sky.Business.AssemblyInfoInputs.cache
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/obj/Debug/net5.0/Sky.Business.AssemblyInfo.cs
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/obj/Debug/net5.0/Sky.Business.csproj.CoreCompileInputs.cache
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/obj/Debug/net5.0/Sky.Business.dll
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/obj/Debug/net5.0/ref/Sky.Business.dll
+/Users/kutluhanyegit/Desktop/SkyProj/Sky.Business/obj/Debug/net5.0/Sky.Business.pdb

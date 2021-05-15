@@ -1,4 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using Sky.Business.Concrate;
+using Sky.DataAccess.Concrate.EntityFramework;
+using Sky.Entities.Concrate;
 
 namespace Sky.UI.Controllers
 {
@@ -7,7 +10,6 @@ namespace Sky.UI.Controllers
     {
         public IActionResult index()
         {
-          //TODO: Implement Realistic Implementation
           return View();
         }
     }

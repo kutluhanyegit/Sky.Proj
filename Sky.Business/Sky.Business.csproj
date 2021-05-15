@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sky.Entities\Sky.Entities.csproj" />
+    <ProjectReference Include="..\Sky.UI\Sky.UI.csproj" />
+    <ProjectReference Include="..\Sky.DataAccess\Sky.DataAccess.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
